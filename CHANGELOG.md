@@ -36,6 +36,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Update savebar design - #690 by @dominik-zeglen
 - Add metadata to orders - #688 by @dominik-zeglen
 - Add lazyload to locales - #692 by @eaglesemanation
+- Restyle side menu - #697 by @dominik-zeglen
 
 ## 2.10.1
 
